@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Form\Frm_Dialog\ChatLieu_Frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Frm_Dialog\DangNhap_Frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Frm_Dialog\Giao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Frm_Dialog\Giay_Frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Frm_Dialog\HinhThucThanhToan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Frm_Dialog\KichCo_Frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Frm_Dialog\KieuDang_Frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Frm_Dialog\MauSac_Frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Frm_Dialog\QuenMatKhau_Frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Frm_Dialog\SoLuongMua_Frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Frm_Dialog\ThuongHieu_Frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\Frm_Dialog\TimKhachhang_Frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\US\Frm_US_BangLuong.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form\US\Frm_US_BanHang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form\US\Frm_US_GiaoCa.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form\US\Frm_US_HoaDon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form\US\Frm_US_KhachHang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form\US\Frm_Us_NhanVien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form\US\Frm_US_SanPham.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form\US\Frm_US_ThongKe.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form\US\Frm_US_UuDai.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Form\US\Frm_US_BanHang.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
